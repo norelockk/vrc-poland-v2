@@ -1,0 +1,8 @@
+{
+  "banned_users": [
+    {
+      "display_name": "Local Player",
+      "reason": "test"
+    }
+  ]
+}
